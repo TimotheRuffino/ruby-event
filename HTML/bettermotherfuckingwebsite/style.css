@@ -1,0 +1,53 @@
+body
+{
+    color: #444;
+    
+
+}
+
+html
+{
+    padding-left : 370px;
+    padding-right: 370px;
+    padding-top: 1cm;
+}
+
+.still
+{
+    font-style: italic
+}
+
+h1, h2, h3
+{
+    line-height: 1.2;
+}
+
+*
+{
+    line-height: 1.4;
+}
+
+.EEEEEE
+{
+    font-weight: bold
+}
+
+p
+{
+    font-size: 18px;
+}
+
+h1
+{
+    font-size: 36px;
+}
+
+h2
+{
+    font-size: 27px;
+}
+
+h3
+{
+    font-size: 21.06px;
+}

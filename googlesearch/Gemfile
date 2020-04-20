@@ -1,0 +1,4 @@
+gem 'watir'
+gem 'capybara'
+gem 'pry'
+gem 'launchy'

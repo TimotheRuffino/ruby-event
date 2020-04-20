@@ -1,0 +1,151 @@
+*
+{
+    color: #454545;
+}
+
+.best
+{
+    font-style: italic;
+}
+
+.motherfucking
+{
+    color: #730000;
+}
+
+.wrong
+{
+    color: #c0392b;
+    text-decoration: underline;
+}
+
+a
+{
+    color: #07a;
+}
+
+a:visited
+{
+    color: #941352;
+}
+
+*
+{
+    font-family: Open Sans,Arial;
+}
+
+.small
+{
+    font-size: .4em;
+}
+
+
+#colored {
+    animation:transformation_couleur 5s infinite;
+    -webkit-animation:transformation_couleur 5s infinite;
+
+
+}
+
+@-webkit-keyframes transformation_couleur {
+      0% {
+    color: #ff0000;
+  }
+
+  8.333% {
+    color: #ff8000;
+  }
+
+  16.667% {
+    color: #ffff00;
+  }
+
+  25.000% {
+    color: #80ff00;
+  }
+
+  33.333% {
+    color: #00ff00;
+  }
+
+  41.667% {
+    color: #00ff80;
+  }
+
+  50.000% {
+    color: #00ffff;
+  }
+
+  58.333% {
+    color: #0080ff;
+  }
+
+  66.667% {
+    color: #0000ff;
+  }
+
+  75.000% {
+    color: #8000ff;
+  }
+
+  83.333% {
+    color: #ff00ff;
+  }
+
+  91.667% {
+    color: #ff0080;
+  }
+
+  100.00% {
+    color: #ff0000;
+  }
+}
+
+.shitty
+{
+    color: #00e;
+    cursor: not-allowed; 
+}
+
+.violet
+{
+    color: #551a8b;
+    cursor: not-allowed;
+}
+
+.wtf
+{
+    font-family: monospace;
+    font-size: 16px;
+}
+
+div.photogauche {
+    float: left;
+    width: 300px;
+    height:225px; 
+    margin-right:10px;
+}
+
+html
+{
+    padding-left : 300px;
+    padding-right: 300px;
+    padding-top: 1cm;
+}
+
+.lsmall
+{
+    font-size: .7em;
+}
+
+.small2
+{
+    font-size: .6em
+}
+
+.cit
+{
+    vertical-align: top;
+    font-size: .7em;
+    padding-left: .3em
+}
